@@ -87,5 +87,6 @@ Create a TypeScript program that simulates a simple shopping cart. Define an int
 **Assignment Deadlines:**
 
 - 60 marks: November 9, 2023, 11:59 PM
-- 30 marks: After 9th November, 11.59PM
+- 50 marks: November 10, 2023, 11:59 PM
+- 30 marks: After 10th November, 11.59PM
 
